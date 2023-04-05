@@ -1,0 +1,10 @@
+Developed an HR Portal web app that streamlined HR processes and improved employee experience. Worked closely with a cross-functional team of designers, developers, and stakeholders to gather requirements, design, develop, test and deploy the web application. The HR Portal web app is a secure and user-friendly platform that enables HR personnel to manage employee data, benefits, time-off requests, and performance evaluations. It also provides employees with a self-service portal where they can access their HR records, update personal information, request time off, and view their performance evaluations.
+
+Key Contributions:
+
+Led the development of the HR Portal web app using technologies such as Ruby on Rails, HTML, CSS, and JavaScript.
+Collaborated with HR department to gather requirements, design the user interface, and develop features that met their needs.
+Implemented data security protocols to ensure the privacy and confidentiality of employee data.
+Conducted user testing and implemented feedback to improve the user experience and functionality of the HR Portal web app.
+Created technical documentation and user manuals to facilitate future development and maintenance of the HR Portal web app.
+Provided technical support and troubleshooting to HR personnel and employees to ensure the smooth operation of the HR Portal web app.
